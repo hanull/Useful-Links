@@ -35,6 +35,7 @@
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 - [backend-interview](https://github.com/ksundong/backend-interview-question)
 - [기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
+- [Basic Knowledge of Computer Science](https://github.com/Seogeurim/CS-study)
 
 ## 협업 & 컨벤션
 - [애자일 Scrum(스크럼) 이해하기](https://medium.com/hgmin/scrum-363a6bfd7a60)
