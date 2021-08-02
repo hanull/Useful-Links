@@ -48,6 +48,7 @@
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 
 ## 회사 기술 블로그
+- [toss](https://blog.toss.im/)
 - [카카오](https://tech.kakao.com/blog/)
 - [쿠팡](https://medium.com/coupang-tech/technote/home)
 - [우아한형제들](https://techblog.woowahan.com/)
