@@ -52,6 +52,7 @@
 - [카카오](https://tech.kakao.com/blog/)
 - [쿠팡](https://medium.com/coupang-tech/technote/home)
 - [우아한형제들](https://techblog.woowahan.com/)
+- [우테코](https://woowacourse.github.io/tecoble/)
 - [NHN](https://meetup.toast.com/)
 - [당근마켓](https://medium.com/daangn)
 - [딜리버리히어로](https://medium.com/deliverytechkorea)
