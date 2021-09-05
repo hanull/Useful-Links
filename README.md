@@ -82,5 +82,5 @@
 
 
 ## 기타
-
+- [학습에 실패하는 이유 : 의식적인 연습을 ](https://techblog.woowahan.com/2555/)
 - [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1)
