@@ -48,6 +48,7 @@
 - [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 
 ## 회사 기술 블로그
+- [네이버 서비스별 직무 소개 페이지](https://naver-career.gitbook.io/kr/)
 - [네이버 d2](https://d2.naver.com/home)
 - [toss](https://blog.toss.im/)
 - [카카오](https://tech.kakao.com/blog/)
