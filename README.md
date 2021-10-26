@@ -63,6 +63,7 @@
 
 
 ## 동기부여 & 성장하자
+- [버려야할 단어 조급함, 비교](https://taetaetae.github.io/posts/a-good-developer-in-terms-of-employment/)
 - [개발자의 울트라러닝](https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/)
 - [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 - [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
