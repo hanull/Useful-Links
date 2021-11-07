@@ -37,6 +37,10 @@
 - [기술 면접 질문 모음](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EB%AA%A8%EC%9D%8C)
 - [Basic Knowledge of Computer Science](https://github.com/Seogeurim/CS-study)
 
+## 블록체인 
+- [크립토좀비(solidity 학습)](https://cryptozombies.io/ko/)
+- [블록체인 이해하기(재윤TV)](https://www.youtube.com/watch?v=xjw1SY7cMJ0&list=PL4EfEcXfFMmJU1L-e3FVWc95FwwVYQFF_)
+
 ## 협업 & 컨벤션
 - [애자일 Scrum(스크럼) 이해하기](https://medium.com/hgmin/scrum-363a6bfd7a60)
 - [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
