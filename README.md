@@ -14,7 +14,8 @@
 - [스프링 입문을 위한 객체지향](https://www.youtube.com/playlist?list=PLhDpFstysKKlKoYLivzTVcJxBlvrOb4rM)
 - [스프링 핵심 원리- 김영한님 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
-
+- [스프링 가이드 : cheese10yun](https://github.com/cheese10yun/spring-guide)
+- [스프링 JPA 가이드](https://github.com/cheese10yun/spring-jpa-best-practices)
 
 ## WEB
 - [poiemaweb](https://poiemaweb.com/)
