@@ -17,6 +17,9 @@
 - [스프링 가이드 : cheese10yun](https://github.com/cheese10yun/spring-guide)
 - [스프링 JPA 가이드](https://github.com/cheese10yun/spring-jpa-best-practices)
 
+## 객체지향
+- [생각하라 객체지향처럼 : 커피 전문점을 객체지향으로 바라보기](https://techblog.woowahan.com/2502/)
+
 ## WEB
 - [poiemaweb](https://poiemaweb.com/)
 - [프론트엔드 입문자를 위한 학습 순서 - 드림코드 엘리](https://www.notion.so/277f2906743742ae8f19b6494581058f)
