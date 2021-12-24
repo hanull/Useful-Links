@@ -81,6 +81,8 @@
 
 
 ## 회고록
+- [우하한테크코스 VS 우아한형제들](https://techblog.woowahan.com/6900/)
+- [내가 꿈꾸는 프로그래머로서의 삶(우테코)](https://techblog.woowahan.com/6401/)
 - [체대 출신 개발자의 2020년 회고](https://ryan-han.com/post/memoirs/memoirs2020/?fbclid=IwAR3wZsKCpUYYAbSLLLErmRl4DP5sLXhe5vZgqW093K1l6fgQ6tqVuVJj2UQ)
 - [1일 1잔디 8개월 회고](https://wbluke.tistory.com/52)
 - [기술블로그 구독서비스 개발 후기](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
