@@ -1,14 +1,16 @@
 # Useful-Links
 좋은 글, 유용한 정보 등을 모와두는 저장소입니다. 
 
-## 알고리즘
-- [실전 알고리즘 정리 - BaaaaaaaarkingDog](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [코딩 테스트 대비 문제집 with 백준 - tony9402](https://github.com/tony9402/baekjoon)
-
 ## 백엔드
 - [백엔드 개발자 로드맵](https://github.com/hanull/roadmap)
 - [D2-백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 - [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/) 
+
+## JAVA
+- [이펙티브 자바 효과적으로 읽는 방법](https://javabom.tistory.com/70)
+
+## 객체지향
+- [생각하라 객체지향처럼 : 커피 전문점을 객체지향으로 바라보기](https://techblog.woowahan.com/2502/)
 
 ## Spring
 - [스프링 입문을 위한 객체지향](https://www.youtube.com/playlist?list=PLhDpFstysKKlKoYLivzTVcJxBlvrOb4rM)
@@ -16,15 +18,6 @@
 - [Spring Framework Documentation](https://docs.spring.io/spring-framework/docs/current/reference/html/index.html)
 - [스프링 가이드 : cheese10yun](https://github.com/cheese10yun/spring-guide)
 - [스프링 JPA 가이드](https://github.com/cheese10yun/spring-jpa-best-practices)
-
-## 객체지향
-- [생각하라 객체지향처럼 : 커피 전문점을 객체지향으로 바라보기](https://techblog.woowahan.com/2502/)
-
-## WEB
-- [poiemaweb](https://poiemaweb.com/)
-- [프론트엔드 입문자를 위한 학습 순서 - 드림코드 엘리](https://www.notion.so/277f2906743742ae8f19b6494581058f)
-- [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
-- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 
 ## CS
 - [운영체제-반효경 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
@@ -44,6 +37,16 @@
 ## 블록체인 
 - [크립토좀비(solidity 학습)](https://cryptozombies.io/ko/)
 - [블록체인 이해하기(재윤TV)](https://www.youtube.com/watch?v=xjw1SY7cMJ0&list=PL4EfEcXfFMmJU1L-e3FVWc95FwwVYQFF_)
+
+## 알고리즘
+- [실전 알고리즘 정리 - BaaaaaaaarkingDog](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [코딩 테스트 대비 문제집 with 백준 - tony9402](https://github.com/tony9402/baekjoon)
+
+## WEB
+- [poiemaweb](https://poiemaweb.com/)
+- [프론트엔드 입문자를 위한 학습 순서 - 드림코드 엘리](https://www.notion.so/277f2906743742ae8f19b6494581058f)
+- [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 
 ## 협업 & 컨벤션
 - [애자일 Scrum(스크럼) 이해하기](https://medium.com/hgmin/scrum-363a6bfd7a60)
@@ -69,17 +72,6 @@
 - [뱅크샐러드](https://blog.banksalad.com/)
 - [마켓컬리](https://helloworld.kurly.com/)
 
-
-## 동기부여 & 성장하자
-- [홍정욱 회장이 말하는 당신이 하고 싶은 게 없는 이유](https://www.youtube.com/watch?v=oB4iv7KpAWM)
-- [버려야할 단어 조급함, 비교](https://taetaetae.github.io/posts/a-good-developer-in-terms-of-employment/)
-- [개발자의 울트라러닝](https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/)
-- [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
-- [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
-- [특별한 인생을 만드는 법](https://www.youtube.com/watch?v=_YnY4UZoLK8)
-- [변하고 싶다면 무조건 적어라](https://www.youtube.com/watch?v=-L8P4MisfRI)
-
-
 ## 회고록
 - [체대 출신 개발자의 2021년 회고-한정수님](https://ryan-han.com/post/memoirs/memoirs2021/)
 - [주니어 개발자의 2021년 회고-황준일님](https://junilhwang.github.io/TIL/Review/2021-year/end/#_1-%E1%84%92%E1%85%AC%E1%84%89%E1%85%A1-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3-%E1%84%92%E1%85%AC%E1%84%80%E1%85%A9)
@@ -90,13 +82,21 @@
 - [기술블로그 구독서비스 개발 후기](https://taetaetae.github.io/2018/08/05/daily-dev-blog-1/)
 - [소프트웨어 엔지니어가 되는 법](https://cselabnotes.com/kr/2021/03/25/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%90%98%EB%8A%94-%EB%B2%95/)
 
+## 동기부여 & 성장하자
+- [홍정욱 회장이 말하는 당신이 하고 싶은 게 없는 이유](https://www.youtube.com/watch?v=oB4iv7KpAWM)
+- [버려야할 단어 조급함, 비교](https://taetaetae.github.io/posts/a-good-developer-in-terms-of-employment/)
+- [개발자의 울트라러닝](https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/)
+- [흔하지 않고 좋은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
+- [누구나 원하는 개발자되기](https://blog.shiren.dev/2020-11-23/)
+- [특별한 인생을 만드는 법](https://www.youtube.com/watch?v=_YnY4UZoLK8)
+- [변하고 싶다면 무조건 적어라](https://www.youtube.com/watch?v=-L8P4MisfRI)
+
+## 기타
+- [학습에 실패하는 이유 : 의식적인 연습을 ](https://techblog.woowahan.com/2555/)
+- [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1)
+
 ## 유료 부트캠프
 - [코드숨](https://www.codesoom.com/)
 - [F-lab](https://intro.f-lab.kr/)
 - [nextstep](https://edu.nextstep.camp/)
 - [코드스쿼드](https://codesquad.kr/)
-
-
-## 기타
-- [학습에 실패하는 이유 : 의식적인 연습을 ](https://techblog.woowahan.com/2555/)
-- [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1)
