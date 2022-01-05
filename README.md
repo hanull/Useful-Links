@@ -81,6 +81,8 @@
 
 
 ## 회고록
+- [체대 출신 개발자의 2021년 회고-한정수님](https://ryan-han.com/post/memoirs/memoirs2021/)
+- [주니어 개발자의 2021년 회고-황준일님](https://junilhwang.github.io/TIL/Review/2021-year/end/#_1-%E1%84%92%E1%85%AC%E1%84%89%E1%85%A1-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3-%E1%84%92%E1%85%AC%E1%84%80%E1%85%A9)
 - [우하한테크코스 VS 우아한형제들](https://techblog.woowahan.com/6900/)
 - [내가 꿈꾸는 프로그래머로서의 삶(우테코)](https://techblog.woowahan.com/6401/)
 - [체대 출신 개발자의 2020년 회고](https://ryan-han.com/post/memoirs/memoirs2020/?fbclid=IwAR3wZsKCpUYYAbSLLLErmRl4DP5sLXhe5vZgqW093K1l6fgQ6tqVuVJj2UQ)
