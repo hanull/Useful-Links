@@ -49,6 +49,7 @@
 - [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 
 ## 협업 & 컨벤션
+- [페어프로그래밍을 조심하세요](https://medium.com/@ghilbut/%ED%8E%98%EC%96%B4%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%A1%B0%EC%8B%AC%ED%95%98%EC%84%B8%EC%9A%94-4b4fd7d61150)
 - [애자일 Scrum(스크럼) 이해하기](https://medium.com/hgmin/scrum-363a6bfd7a60)
 - [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
 - [git-flow](https://techblog.woowahan.com/2553/)
