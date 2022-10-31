@@ -11,6 +11,7 @@
 
 ## 객체지향
 - [생각하라 객체지향처럼 : 커피 전문점을 객체지향으로 바라보기](https://techblog.woowahan.com/2502/)
+- [[우아한테크세미나] 190620 우아한객체지향](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
 
 ## Spring
 - [스프링 입문을 위한 객체지향](https://www.youtube.com/playlist?list=PLhDpFstysKKlKoYLivzTVcJxBlvrOb4rM)
@@ -72,6 +73,7 @@
 - [딜리버리히어로](https://medium.com/deliverytechkorea)
 - [뱅크샐러드](https://blog.banksalad.com/)
 - [마켓컬리](https://helloworld.kurly.com/)
+- [맘시터](https://tech.mfort.co.kr/)
 
 ## 회고록
 - [체대 출신 개발자의 2021년 회고-한정수님](https://ryan-han.com/post/memoirs/memoirs2021/)
