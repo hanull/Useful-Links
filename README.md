@@ -21,6 +21,7 @@
 - [스프링 JPA 가이드](https://github.com/cheese10yun/spring-jpa-best-practices)
 
 ## CS
+- [HTTP 완벽 가이드 읽는 법](https://blog.npcode.com/2015/06/07/%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-http-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9D%BD%EB%8A%94-%EB%B2%95/)
 - [운영체제-반효경 교수님 강의](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
 - [운영체제-공룡책-인프런 강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98#curriculum)
 - [HTTP-모든 개발자를 위한 HTTP 웹 기본 지식-인프런 강의](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard)
