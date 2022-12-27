@@ -1,6 +1,3 @@
-# Useful-Links
-좋은 글, 유용한 정보 등을 모와두는 저장소입니다. 
-
 ## 백엔드
 - [백엔드 개발자 로드맵](https://github.com/hanull/roadmap)
 - [D2-백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
