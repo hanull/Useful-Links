@@ -84,6 +84,7 @@
 - [소프트웨어 엔지니어가 되는 법](https://cselabnotes.com/kr/2021/03/25/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EB%90%98%EB%8A%94-%EB%B2%95/)
 
 ## 동기부여 & 성장하자
+- [Bucketlist.nl 네덜란드 체험 체크리스트 (네덜란드어)](https://bucketlist.nl/bucketlist-nederland/checklist) - 검색, 브라우저 내 선택 저장, 인쇄를 지원하는 무료 체크리스트. 연결된 외부 체험 예약은 유료일 수 있습니다.
 - [홍정욱 회장이 말하는 당신이 하고 싶은 게 없는 이유](https://www.youtube.com/watch?v=oB4iv7KpAWM)
 - [버려야할 단어 조급함, 비교](https://taetaetae.github.io/posts/a-good-developer-in-terms-of-employment/)
 - [개발자의 울트라러닝](https://devjang.github.io/2021/01/24/2021-01-24-ultra-learning-of-dev/)
